@@ -24,7 +24,7 @@ end
 #  if turn_count(board) % 2 == 0 ? "X" : "O"
 #end
 
-#the above doesn't even declare a variable, it just compaares the retun of turn_
+#the above doesn't even declare a variable, it just compares the retun of turn_
 #count(board) directly to remainder.
 
 #remember variables have limited scope. We have to declare num(turns) IN our
